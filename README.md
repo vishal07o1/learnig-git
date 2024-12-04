@@ -1,2 +1,2 @@
-# learnig-git
+# learning-git
 i am learning git 
